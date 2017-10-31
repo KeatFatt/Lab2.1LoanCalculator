@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 2.1Loan Calculator</string>
+    <string name="editPrice">Price</string>
+    <string name="editDownPayment">Down Payment</string>
+    <string name="editInterestRate">Interest Rate(%)</string>
+    <string name="editRepayment">Repayment (month)</string>
+    <string name="editSalary">Salary</string>
+    <string name="viewmonthlyRepayment">monthly Repayment</string>
+    <string name="viewStatus">Status</string>
+    <string name="editClose">Close</string>
+</resources>
